@@ -3,7 +3,7 @@ const path = require('path');
 const {execSync} = require('child_process');
 
 const generatedDir = path.join(__dirname, 'src/generated');
-const specificationDir = path.join(__dirname, '../../../specification');
+const specificationDir = process.env.SPECIFICATION_DIR || path.join(__dirname, '../../../specification');
 
 // 1. Clean generated files
 if (fs.existsSync(generatedDir)) {
