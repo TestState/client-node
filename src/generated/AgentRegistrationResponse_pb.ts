@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file AgentRegistrationResponse.proto.
  */
 export const file_AgentRegistrationResponse: GenFile = /*@__PURE__*/
-  fileDesc("Ch9BZ2VudFJlZ2lzdHJhdGlvblJlc3BvbnNlLnByb3RvEgZ1YXAudjEiLgoZQWdlbnRSZWdpc3RyYXRpb25SZXNwb25zZRIRCgljbGllbnRfaWQYASABKAlCIQodbWUuaHNnYW1lci50ZXN0Z2VuZXNpcy51YXAudjFQAWIGcHJvdG8z");
+  fileDesc("Ch9BZ2VudFJlZ2lzdHJhdGlvblJlc3BvbnNlLnByb3RvEgZ1YXAudjEiLgoZQWdlbnRSZWdpc3RyYXRpb25SZXNwb25zZRIRCgljbGllbnRfaWQYASABKAlCHwobbWUuaHNnYW1lci50ZXN0c3RhdGUudWFwLnYxUAFiBnByb3RvMw");
 
 /**
  * AgentRegistrationResponse provides the Agent with a unique session ID.

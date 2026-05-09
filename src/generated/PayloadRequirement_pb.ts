@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file PayloadRequirement.proto.
  */
 export const file_PayloadRequirement: GenFile = /*@__PURE__*/
-  fileDesc("ChhQYXlsb2FkUmVxdWlyZW1lbnQucHJvdG8SBnVhcC52MSJrChJQYXlsb2FkUmVxdWlyZW1lbnQSDAoEdHlwZRgBIAEoCRITCgtpc19yZXF1aXJlZBgCIAEoCBIVCg1pc19yZXBlYXRhYmxlGAMgASgIEhsKE2FjY2VwdGVkX21pbWVfdHlwZXMYBCADKAlCIQodbWUuaHNnYW1lci50ZXN0Z2VuZXNpcy51YXAudjFQAWIGcHJvdG8z");
+  fileDesc("ChhQYXlsb2FkUmVxdWlyZW1lbnQucHJvdG8SBnVhcC52MSJrChJQYXlsb2FkUmVxdWlyZW1lbnQSDAoEdHlwZRgBIAEoCRITCgtpc19yZXF1aXJlZBgCIAEoCBIVCg1pc19yZXBlYXRhYmxlGAMgASgIEhsKE2FjY2VwdGVkX21pbWVfdHlwZXMYBCADKAlCHwobbWUuaHNnYW1lci50ZXN0c3RhdGUudWFwLnYxUAFiBnByb3RvMw");
 
 /**
  * PayloadRequirement defines if a specific Payload.type is needed or supported.

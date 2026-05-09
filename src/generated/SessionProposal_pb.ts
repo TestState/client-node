@@ -16,7 +16,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file SessionProposal.proto.
  */
 export const file_SessionProposal: GenFile = /*@__PURE__*/
-  fileDesc("ChVTZXNzaW9uUHJvcG9zYWwucHJvdG8SBnVhcC52MSKYAQoPU2Vzc2lvblByb3Bvc2FsEhIKCnNlc3Npb25faWQYASABKAkSKwoEdGVzdBgCIAEoCzIbLnVhcC52MS5UZXN0UHJvcG9zYWxEZXRhaWxzSAASOQoLdHJhbnNsYXRpb24YAyABKAsyIi51YXAudjEuVHJhbnNsYXRpb25Qcm9wb3NhbERldGFpbHNIAEIJCgdkZXRhaWxzQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_TestProposalDetails, file_TranslationProposalDetails]);
+  fileDesc("ChVTZXNzaW9uUHJvcG9zYWwucHJvdG8SBnVhcC52MSKYAQoPU2Vzc2lvblByb3Bvc2FsEhIKCnNlc3Npb25faWQYASABKAkSKwoEdGVzdBgCIAEoCzIbLnVhcC52MS5UZXN0UHJvcG9zYWxEZXRhaWxzSAASOQoLdHJhbnNsYXRpb24YAyABKAsyIi51YXAudjEuVHJhbnNsYXRpb25Qcm9wb3NhbERldGFpbHNIAEIJCgdkZXRhaWxzQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_TestProposalDetails, file_TranslationProposalDetails]);
 
 /**
  * SessionProposal is sent by the Hub to the Agent to query its readiness for a session.

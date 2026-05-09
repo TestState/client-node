@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file SessionAcceptance.proto.
  */
 export const file_SessionAcceptance: GenFile = /*@__PURE__*/
-  fileDesc("ChdTZXNzaW9uQWNjZXB0YW5jZS5wcm90bxIGdWFwLnYxIkkKEVNlc3Npb25BY2NlcHRhbmNlEhIKCnNlc3Npb25faWQYASABKAkSEAoIYWNjZXB0ZWQYAiABKAgSDgoGcmVhc29uGAMgASgJQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw");
+  fileDesc("ChdTZXNzaW9uQWNjZXB0YW5jZS5wcm90bxIGdWFwLnYxIkkKEVNlc3Npb25BY2NlcHRhbmNlEhIKCnNlc3Npb25faWQYASABKAkSEAoIYWNjZXB0ZWQYAiABKAgSDgoGcmVhc29uGAMgASgJQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM");
 
 /**
  * SessionAcceptance is sent by the Agent to the Hub to confirm or reject a proposal.

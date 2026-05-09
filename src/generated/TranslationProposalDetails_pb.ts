@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TranslationProposalDetails.proto.
  */
 export const file_TranslationProposalDetails: GenFile = /*@__PURE__*/
-  fileDesc("CiBUcmFuc2xhdGlvblByb3Bvc2FsRGV0YWlscy5wcm90bxIGdWFwLnYxIioKGlRyYW5zbGF0aW9uUHJvcG9zYWxEZXRhaWxzEgwKBHR5cGUYASABKAlCIQodbWUuaHNnYW1lci50ZXN0Z2VuZXNpcy51YXAudjFQAWIGcHJvdG8z");
+  fileDesc("CiBUcmFuc2xhdGlvblByb3Bvc2FsRGV0YWlscy5wcm90bxIGdWFwLnYxIioKGlRyYW5zbGF0aW9uUHJvcG9zYWxEZXRhaWxzEgwKBHR5cGUYASABKAlCHwobbWUuaHNnYW1lci50ZXN0c3RhdGUudWFwLnYxUAFiBnByb3RvMw");
 
 /**
  * TranslationProposalDetails contains specific fields for translation proposals.

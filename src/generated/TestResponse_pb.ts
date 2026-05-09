@@ -20,7 +20,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestResponse.proto.
  */
 export const file_TestResponse: GenFile = /*@__PURE__*/
-  fileDesc("ChJUZXN0UmVzcG9uc2UucHJvdG8SBnVhcC52MSK6AQoMVGVzdFJlc3BvbnNlEi0KCXRpbWVzdGFtcBgBIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXASJAoGc3RhdHVzGAIgASgLMhIudWFwLnYxLlRlc3RTdGF0dXNIABImCgl0ZWxlbWV0cnkYAyABKAsyES51YXAudjEuVGVsZW1ldHJ5SAASJAoGcmVzdWx0GAQgASgLMhIudWFwLnYxLlRlc3RSZXN1bHRIAEIHCgVldmVudEIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_google_protobuf_timestamp, file_TestStatus, file_Telemetry, file_TestResult]);
+  fileDesc("ChJUZXN0UmVzcG9uc2UucHJvdG8SBnVhcC52MSK6AQoMVGVzdFJlc3BvbnNlEi0KCXRpbWVzdGFtcBgBIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXASJAoGc3RhdHVzGAIgASgLMhIudWFwLnYxLlRlc3RTdGF0dXNIABImCgl0ZWxlbWV0cnkYAyABKAsyES51YXAudjEuVGVsZW1ldHJ5SAASJAoGcmVzdWx0GAQgASgLMhIudWFwLnYxLlRlc3RSZXN1bHRIAEIHCgVldmVudEIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_google_protobuf_timestamp, file_TestStatus, file_Telemetry, file_TestResult]);
 
 /**
  * TestResponse is a polymorphic message streamed from the Agent during test execution.

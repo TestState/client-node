@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file AgentRegistration.proto.
  */
 export const file_AgentRegistration: GenFile = /*@__PURE__*/
-  fileDesc("ChdBZ2VudFJlZ2lzdHJhdGlvbi5wcm90bxIGdWFwLnYxIlMKEUFnZW50UmVnaXN0cmF0aW9uEhQKDGRpc3BsYXlfbmFtZRgBIAEoCRIoCgxjYXBhYmlsaXRpZXMYAiADKAsyEi51YXAudjEuQ2FwYWJpbGl0eUIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_Capability]);
+  fileDesc("ChdBZ2VudFJlZ2lzdHJhdGlvbi5wcm90bxIGdWFwLnYxIlMKEUFnZW50UmVnaXN0cmF0aW9uEhQKDGRpc3BsYXlfbmFtZRgBIAEoCRIoCgxjYXBhYmlsaXRpZXMYAiADKAsyEi51YXAudjEuQ2FwYWJpbGl0eUIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_Capability]);
 
 /**
  * AgentRegistration identifies an Agent and lists all its heterogeneous capabilities.

@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestProposalDetails.proto.
  */
 export const file_TestProposalDetails: GenFile = /*@__PURE__*/
-  fileDesc("ChlUZXN0UHJvcG9zYWxEZXRhaWxzLnByb3RvEgZ1YXAudjEiIwoTVGVzdFByb3Bvc2FsRGV0YWlscxIMCgR0eXBlGAEgASgJQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw");
+  fileDesc("ChlUZXN0UHJvcG9zYWxEZXRhaWxzLnByb3RvEgZ1YXAudjEiIwoTVGVzdFByb3Bvc2FsRGV0YWlscxIMCgR0eXBlGAEgASgJQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM");
 
 /**
  * TestProposalDetails contains specific fields for test proposals.

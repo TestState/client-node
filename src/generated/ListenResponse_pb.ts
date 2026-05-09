@@ -16,7 +16,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file ListenResponse.proto.
  */
 export const file_ListenResponse: GenFile = /*@__PURE__*/
-  fileDesc("ChRMaXN0ZW5SZXNwb25zZS5wcm90bxIGdWFwLnYxIn0KDkxpc3RlblJlc3BvbnNlEjMKEHNlc3Npb25fcHJvcG9zYWwYASABKAsyFy51YXAudjEuU2Vzc2lvblByb3Bvc2FsSAASLQoNc2Vzc2lvbl9yZWFkeRgCIAEoCzIULnVhcC52MS5TZXNzaW9uUmVhZHlIAEIHCgVldmVudEIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_SessionProposal, file_SessionReady]);
+  fileDesc("ChRMaXN0ZW5SZXNwb25zZS5wcm90bxIGdWFwLnYxIn0KDkxpc3RlblJlc3BvbnNlEjMKEHNlc3Npb25fcHJvcG9zYWwYASABKAsyFy51YXAudjEuU2Vzc2lvblByb3Bvc2FsSAASLQoNc2Vzc2lvbl9yZWFkeRgCIAEoCzIULnVhcC52MS5TZXNzaW9uUmVhZHlIAEIHCgVldmVudEIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_SessionProposal, file_SessionReady]);
 
 /**
  * ListenResponse is the Hub-to-Agent envelope for the unified control stream.

@@ -12,7 +12,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file Attachment.proto.
  */
 export const file_Attachment: GenFile = /*@__PURE__*/
-  fileDesc("ChBBdHRhY2htZW50LnByb3RvEgZ1YXAudjEiOwoKQXR0YWNobWVudBIMCgRuYW1lGAEgASgJEhEKCW1pbWVfdHlwZRgCIAEoCRIMCgRkYXRhGAMgASgMQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw");
+  fileDesc("ChBBdHRhY2htZW50LnByb3RvEgZ1YXAudjEiOwoKQXR0YWNobWVudBIMCgRuYW1lGAEgASgJEhEKCW1pbWVfdHlwZRgCIAEoCRIMCgRkYXRhGAMgASgMQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM");
 
 /**
  * Attachment represents a generic binary or structured file attached to a report.

@@ -16,7 +16,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file Capability.proto.
  */
 export const file_Capability: GenFile = /*@__PURE__*/
-  fileDesc("ChBDYXBhYmlsaXR5LnByb3RvEgZ1YXAudjEidAoKQ2FwYWJpbGl0eRImCgR0ZXN0GAEgASgLMhYudWFwLnYxLlRlc3RDYXBhYmlsaXR5SAASNAoLdHJhbnNsYXRpb24YAiABKAsyHS51YXAudjEuVHJhbnNsYXRpb25DYXBhYmlsaXR5SABCCAoGZm9ybWF0QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_TestCapability, file_TranslationCapability]);
+  fileDesc("ChBDYXBhYmlsaXR5LnByb3RvEgZ1YXAudjEidAoKQ2FwYWJpbGl0eRImCgR0ZXN0GAEgASgLMhYudWFwLnYxLlRlc3RDYXBhYmlsaXR5SAASNAoLdHJhbnNsYXRpb24YAiABKAsyHS51YXAudjEuVHJhbnNsYXRpb25DYXBhYmlsaXR5SABCCAoGZm9ybWF0Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_TestCapability, file_TranslationCapability]);
 
 /**
  * Capability allows an Agent to specify its support for different domains.

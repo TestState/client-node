@@ -15,7 +15,7 @@ import type { JsonObject, Message } from "@bufbuild/protobuf";
  * Describes the file Payload.proto.
  */
 export const file_Payload: GenFile = /*@__PURE__*/
-  fileDesc("Cg1QYXlsb2FkLnByb3RvEgZ1YXAudjEiagoHUGF5bG9hZBIMCgR0eXBlGAEgASgJEiYKCmF0dGFjaG1lbnQYAiABKAsyEi51YXAudjEuQXR0YWNobWVudBIpCghtZXRhZGF0YRgDIAEoCzIXLmdvb2dsZS5wcm90b2J1Zi5TdHJ1Y3RCIQodbWUuaHNnYW1lci50ZXN0Z2VuZXNpcy51YXAudjFQAWIGcHJvdG8z", [file_google_protobuf_struct, file_Attachment]);
+  fileDesc("Cg1QYXlsb2FkLnByb3RvEgZ1YXAudjEiagoHUGF5bG9hZBIMCgR0eXBlGAEgASgJEiYKCmF0dGFjaG1lbnQYAiABKAsyEi51YXAudjEuQXR0YWNobWVudBIpCghtZXRhZGF0YRgDIAEoCzIXLmdvb2dsZS5wcm90b2J1Zi5TdHJ1Y3RCHwobbWUuaHNnYW1lci50ZXN0c3RhdGUudWFwLnYxUAFiBnByb3RvMw", [file_google_protobuf_struct, file_Attachment]);
 
 /**
  * Payload represents a polymorphic test artifact or script.

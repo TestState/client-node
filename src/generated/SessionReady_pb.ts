@@ -10,7 +10,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file SessionReady.proto.
  */
 export const file_SessionReady: GenFile = /*@__PURE__*/
-  fileDesc("ChJTZXNzaW9uUmVhZHkucHJvdG8SBnVhcC52MSIiCgxTZXNzaW9uUmVhZHkSEgoKc2Vzc2lvbl9pZBgBIAEoCUIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM");
+  fileDesc("ChJTZXNzaW9uUmVhZHkucHJvdG8SBnVhcC52MSIiCgxTZXNzaW9uUmVhZHkSEgoKc2Vzc2lvbl9pZBgBIAEoCUIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z");
 
 /**
  * SessionReady is sent by the Hub over the Control stream to signal the Agent

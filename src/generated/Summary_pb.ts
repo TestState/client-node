@@ -14,7 +14,7 @@ import type { JsonObject, Message } from "@bufbuild/protobuf";
  * Describes the file Summary.proto.
  */
 export const file_Summary: GenFile = /*@__PURE__*/
-  fileDesc("Cg1TdW1tYXJ5LnByb3RvEgZ1YXAudjEilwEKB1N1bW1hcnkSMQoOdG90YWxfZHVyYXRpb24YASABKAsyGS5nb29nbGUucHJvdG9idWYuRHVyYXRpb24SLgoKc3RhcnRfdGltZRgCIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXASKQoIbWV0YWRhdGEYAyABKAsyFy5nb29nbGUucHJvdG9idWYuU3RydWN0QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_google_protobuf_duration, file_google_protobuf_timestamp, file_google_protobuf_struct]);
+  fileDesc("Cg1TdW1tYXJ5LnByb3RvEgZ1YXAudjEilwEKB1N1bW1hcnkSMQoOdG90YWxfZHVyYXRpb24YASABKAsyGS5nb29nbGUucHJvdG9idWYuRHVyYXRpb24SLgoKc3RhcnRfdGltZRgCIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXASKQoIbWV0YWRhdGEYAyABKAsyFy5nb29nbGUucHJvdG9idWYuU3RydWN0Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_google_protobuf_duration, file_google_protobuf_timestamp, file_google_protobuf_struct]);
 
 /**
  * Summary provides a standardized overview of a test or translation session.

@@ -20,7 +20,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestResult.proto.
  */
 export const file_TestResult: GenFile = /*@__PURE__*/
-  fileDesc("ChBUZXN0UmVzdWx0LnByb3RvEgZ1YXAudjEioAEKClRlc3RSZXN1bHQSIgoGc3RhdHVzGAEgASgLMhIudWFwLnYxLlRlc3RTdGF0dXMSIwoHcmVwb3J0cxgCIAMoCzISLnVhcC52MS5TdGVwUmVwb3J0EiAKB3N1bW1hcnkYAyABKAsyDy51YXAudjEuU3VtbWFyeRInCgthdHRhY2htZW50cxgEIAMoCzISLnVhcC52MS5BdHRhY2htZW50QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_TestStatus, file_StepReport, file_Summary, file_Attachment]);
+  fileDesc("ChBUZXN0UmVzdWx0LnByb3RvEgZ1YXAudjEioAEKClRlc3RSZXN1bHQSIgoGc3RhdHVzGAEgASgLMhIudWFwLnYxLlRlc3RTdGF0dXMSIwoHcmVwb3J0cxgCIAMoCzISLnVhcC52MS5TdGVwUmVwb3J0EiAKB3N1bW1hcnkYAyABKAsyDy51YXAudjEuU3VtbWFyeRInCgthdHRhY2htZW50cxgEIAMoCzISLnVhcC52MS5BdHRhY2htZW50Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_TestStatus, file_StepReport, file_Summary, file_Attachment]);
 
 /**
  * TestResult is the final outcome of an execution session.

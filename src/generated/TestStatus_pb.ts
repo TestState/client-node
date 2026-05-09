@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestStatus.proto.
  */
 export const file_TestStatus: GenFile = /*@__PURE__*/
-  fileDesc("ChBUZXN0U3RhdHVzLnByb3RvEgZ1YXAudjEiPwoKVGVzdFN0YXR1cxIgCgVzdGF0ZRgBIAEoDjIRLnVhcC52MS5UZXN0U3RhdGUSDwoHbWVzc2FnZRgCIAEoCUIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_TestState]);
+  fileDesc("ChBUZXN0U3RhdHVzLnByb3RvEgZ1YXAudjEiPwoKVGVzdFN0YXR1cxIgCgVzdGF0ZRgBIAEoDjIRLnVhcC52MS5UZXN0U3RhdGUSDwoHbWVzc2FnZRgCIAEoCUIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_TestState]);
 
 /**
  * TestStatus represents the current execution state of a test test.

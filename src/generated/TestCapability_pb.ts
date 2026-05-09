@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestCapability.proto.
  */
 export const file_TestCapability: GenFile = /*@__PURE__*/
-  fileDesc("ChRUZXN0Q2FwYWJpbGl0eS5wcm90bxIGdWFwLnYxIkwKDlRlc3RDYXBhYmlsaXR5EgwKBHR5cGUYASABKAkSLAoIcGF5bG9hZHMYAiADKAsyGi51YXAudjEuUGF5bG9hZFJlcXVpcmVtZW50QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_PayloadRequirement]);
+  fileDesc("ChRUZXN0Q2FwYWJpbGl0eS5wcm90bxIGdWFwLnYxIkwKDlRlc3RDYXBhYmlsaXR5EgwKBHR5cGUYASABKAkSLAoIcGF5bG9hZHMYAiADKAsyGi51YXAudjEuUGF5bG9hZFJlcXVpcmVtZW50Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_PayloadRequirement]);
 
 /**
  * TestCapability declares that the Agent can execute test payloads

@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TranslationStatus.proto.
  */
 export const file_TranslationStatus: GenFile = /*@__PURE__*/
-  fileDesc("ChdUcmFuc2xhdGlvblN0YXR1cy5wcm90bxIGdWFwLnYxIk0KEVRyYW5zbGF0aW9uU3RhdHVzEicKBXN0YXRlGAEgASgOMhgudWFwLnYxLlRyYW5zbGF0aW9uU3RhdGUSDwoHbWVzc2FnZRgCIAEoCUIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_TranslationState]);
+  fileDesc("ChdUcmFuc2xhdGlvblN0YXR1cy5wcm90bxIGdWFwLnYxIk0KEVRyYW5zbGF0aW9uU3RhdHVzEicKBXN0YXRlGAEgASgOMhgudWFwLnYxLlRyYW5zbGF0aW9uU3RhdGUSDwoHbWVzc2FnZRgCIAEoCUIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_TranslationState]);
 
 /**
  * TranslationStatus represents the state of a script translation session.

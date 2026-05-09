@@ -18,7 +18,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TranslationResult.proto.
  */
 export const file_TranslationResult: GenFile = /*@__PURE__*/
-  fileDesc("ChdUcmFuc2xhdGlvblJlc3VsdC5wcm90bxIGdWFwLnYxIoMBChFUcmFuc2xhdGlvblJlc3VsdBIpCgZzdGF0dXMYASABKAsyGS51YXAudjEuVHJhbnNsYXRpb25TdGF0dXMSIQoIcGF5bG9hZHMYAiADKAsyDy51YXAudjEuUGF5bG9hZBIgCgdzdW1tYXJ5GAMgASgLMg8udWFwLnYxLlN1bW1hcnlCIQodbWUuaHNnYW1lci50ZXN0Z2VuZXNpcy51YXAudjFQAWIGcHJvdG8z", [file_TranslationStatus, file_Payload, file_Summary]);
+  fileDesc("ChdUcmFuc2xhdGlvblJlc3VsdC5wcm90bxIGdWFwLnYxIoMBChFUcmFuc2xhdGlvblJlc3VsdBIpCgZzdGF0dXMYASABKAsyGS51YXAudjEuVHJhbnNsYXRpb25TdGF0dXMSIQoIcGF5bG9hZHMYAiADKAsyDy51YXAudjEuUGF5bG9hZBIgCgdzdW1tYXJ5GAMgASgLMg8udWFwLnYxLlN1bW1hcnlCHwobbWUuaHNnYW1lci50ZXN0c3RhdGUudWFwLnYxUAFiBnByb3RvMw", [file_TranslationStatus, file_Payload, file_Summary]);
 
 /**
  * TranslationResult is the final outcome of an execution session.

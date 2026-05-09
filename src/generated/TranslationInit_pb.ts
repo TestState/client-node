@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TranslationInit.proto.
  */
 export const file_TranslationInit: GenFile = /*@__PURE__*/
-  fileDesc("ChVUcmFuc2xhdGlvbkluaXQucHJvdG8SBnVhcC52MSJLCg9UcmFuc2xhdGlvbkluaXQSFQoNdGFyZ2V0X2Zvcm1hdBgBIAEoCRIhCghwYXlsb2FkcxgCIAMoCzIPLnVhcC52MS5QYXlsb2FkQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_Payload]);
+  fileDesc("ChVUcmFuc2xhdGlvbkluaXQucHJvdG8SBnVhcC52MSJLCg9UcmFuc2xhdGlvbkluaXQSFQoNdGFyZ2V0X2Zvcm1hdBgBIAEoCRIhCghwYXlsb2FkcxgCIAMoCzIPLnVhcC52MS5QYXlsb2FkQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_Payload]);
 
 /**
  * TranslationInit is the initial configuration sent by the Hub to start a translation.

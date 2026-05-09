@@ -18,7 +18,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file Telemetry.proto.
  */
 export const file_Telemetry: GenFile = /*@__PURE__*/
-  fileDesc("Cg9UZWxlbWV0cnkucHJvdG8SBnVhcC52MSKoAQoJVGVsZW1ldHJ5Eg8KB21lc3NhZ2UYASABKAkSJwoLYXR0YWNobWVudHMYAiADKAsyEi51YXAudjEuQXR0YWNobWVudBItCgl0aW1lc3RhbXAYAyABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wEiIKCHNldmVyaXR5GAQgASgOMhAudWFwLnYxLlNldmVyaXR5Eg4KBnNvdXJjZRgFIAEoCUIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_google_protobuf_timestamp, file_Severity, file_Attachment]);
+  fileDesc("Cg9UZWxlbWV0cnkucHJvdG8SBnVhcC52MSKoAQoJVGVsZW1ldHJ5Eg8KB21lc3NhZ2UYASABKAkSJwoLYXR0YWNobWVudHMYAiADKAsyEi51YXAudjEuQXR0YWNobWVudBItCgl0aW1lc3RhbXAYAyABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wEiIKCHNldmVyaXR5GAQgASgOMhAudWFwLnYxLlNldmVyaXR5Eg4KBnNvdXJjZRgFIAEoCUIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_google_protobuf_timestamp, file_Severity, file_Attachment]);
 
 /**
  * Telemetry represents a single real-time log entry streamed from

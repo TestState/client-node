@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TranslationCapability.proto.
  */
 export const file_TranslationCapability: GenFile = /*@__PURE__*/
-  fileDesc("ChtUcmFuc2xhdGlvbkNhcGFiaWxpdHkucHJvdG8SBnVhcC52MSKPAQoVVHJhbnNsYXRpb25DYXBhYmlsaXR5EgwKBHR5cGUYASABKAkSMwoPc291cmNlX3BheWxvYWRzGAIgAygLMhoudWFwLnYxLlBheWxvYWRSZXF1aXJlbWVudBIzCg90YXJnZXRfcGF5bG9hZHMYAyADKAsyGi51YXAudjEuUGF5bG9hZFJlcXVpcmVtZW50QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_PayloadRequirement]);
+  fileDesc("ChtUcmFuc2xhdGlvbkNhcGFiaWxpdHkucHJvdG8SBnVhcC52MSKPAQoVVHJhbnNsYXRpb25DYXBhYmlsaXR5EgwKBHR5cGUYASABKAkSMwoPc291cmNlX3BheWxvYWRzGAIgAygLMhoudWFwLnYxLlBheWxvYWRSZXF1aXJlbWVudBIzCg90YXJnZXRfcGF5bG9hZHMYAyADKAsyGi51YXAudjEuUGF5bG9hZFJlcXVpcmVtZW50Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_PayloadRequirement]);
 
 /**
  * TranslationCapability declares that the Agent can convert scripts

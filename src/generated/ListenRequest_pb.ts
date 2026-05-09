@@ -16,7 +16,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file ListenRequest.proto.
  */
 export const file_ListenRequest: GenFile = /*@__PURE__*/
-  fileDesc("ChNMaXN0ZW5SZXF1ZXN0LnByb3RvEgZ1YXAudjEiegoNTGlzdGVuUmVxdWVzdBInCgVyZWFkeRgBIAEoCzIWLmdvb2dsZS5wcm90b2J1Zi5FbXB0eUgAEjcKEnNlc3Npb25fYWNjZXB0YW5jZRgCIAEoCzIZLnVhcC52MS5TZXNzaW9uQWNjZXB0YW5jZUgAQgcKBWV2ZW50QiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_google_protobuf_empty, file_SessionAcceptance]);
+  fileDesc("ChNMaXN0ZW5SZXF1ZXN0LnByb3RvEgZ1YXAudjEiegoNTGlzdGVuUmVxdWVzdBInCgVyZWFkeRgBIAEoCzIWLmdvb2dsZS5wcm90b2J1Zi5FbXB0eUgAEjcKEnNlc3Npb25fYWNjZXB0YW5jZRgCIAEoCzIZLnVhcC52MS5TZXNzaW9uQWNjZXB0YW5jZUgAQgcKBWV2ZW50Qh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_google_protobuf_empty, file_SessionAcceptance]);
 
 /**
  * ListenRequest is the Agent-to-Hub envelope for the unified control stream.

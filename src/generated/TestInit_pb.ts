@@ -14,7 +14,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file TestInit.proto.
  */
 export const file_TestInit: GenFile = /*@__PURE__*/
-  fileDesc("Cg5UZXN0SW5pdC5wcm90bxIGdWFwLnYxIkAKCFRlc3RJbml0EhEKCXRlc3RfdHlwZRgBIAEoCRIhCghwYXlsb2FkcxgCIAMoCzIPLnVhcC52MS5QYXlsb2FkQiEKHW1lLmhzZ2FtZXIudGVzdGdlbmVzaXMudWFwLnYxUAFiBnByb3RvMw", [file_Payload]);
+  fileDesc("Cg5UZXN0SW5pdC5wcm90bxIGdWFwLnYxIkAKCFRlc3RJbml0EhEKCXRlc3RfdHlwZRgBIAEoCRIhCghwYXlsb2FkcxgCIAMoCzIPLnVhcC52MS5QYXlsb2FkQh8KG21lLmhzZ2FtZXIudGVzdHN0YXRlLnVhcC52MVABYgZwcm90bzM", [file_Payload]);
 
 /**
  * TestInit is the initial configuration sent by the Hub to start a test session.

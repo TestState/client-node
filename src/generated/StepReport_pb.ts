@@ -16,7 +16,7 @@ import type { Message } from "@bufbuild/protobuf";
  * Describes the file StepReport.proto.
  */
 export const file_StepReport: GenFile = /*@__PURE__*/
-  fileDesc("ChBTdGVwUmVwb3J0LnByb3RvEgZ1YXAudjEigwEKClN0ZXBSZXBvcnQSDAoEbmFtZRgBIAEoCRIiCgZzdGF0dXMYAiABKA4yEi51YXAudjEuU3RlcFN0YXR1cxIgCgdzdW1tYXJ5GAMgASgLMg8udWFwLnYxLlN1bW1hcnkSIQoFc3RlcHMYBCADKAsyEi51YXAudjEuU3RlcFJlcG9ydEIhCh1tZS5oc2dhbWVyLnRlc3RnZW5lc2lzLnVhcC52MVABYgZwcm90bzM", [file_Summary, file_StepStatus]);
+  fileDesc("ChBTdGVwUmVwb3J0LnByb3RvEgZ1YXAudjEigwEKClN0ZXBSZXBvcnQSDAoEbmFtZRgBIAEoCRIiCgZzdGF0dXMYAiABKA4yEi51YXAudjEuU3RlcFN0YXR1cxIgCgdzdW1tYXJ5GAMgASgLMg8udWFwLnYxLlN1bW1hcnkSIQoFc3RlcHMYBCADKAsyEi51YXAudjEuU3RlcFJlcG9ydEIfChttZS5oc2dhbWVyLnRlc3RzdGF0ZS51YXAudjFQAWIGcHJvdG8z", [file_Summary, file_StepStatus]);
 
 /**
  * StepReport represents the outcome of a single test step.
