@@ -1,0 +1,23 @@
+{
+  "name": "teststate-client-node",
+  "version": "1.0.0",
+  "description": "Common NodeJS Client Framework for TestState Universal Agent Protocol",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "gen": "node generate-exports.cjs",
+    "build": "npm run gen && tsc"
+  },
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.11.0",
+    "@connectrpc/connect": "^2.1.1",
+    "@connectrpc/connect-node": "^2.1.1"
+  },
+  "devDependencies": {
+    "@bufbuild/buf": "^1.50.0",
+    "@bufbuild/protoc-gen-es": "^2.11.0",
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
